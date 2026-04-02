@@ -1,0 +1,6 @@
+pandas==3.0.1
+numpy==2.4.3
+xgboost
+scikit-learn==1.8.0
+streamlit
+pickle5
